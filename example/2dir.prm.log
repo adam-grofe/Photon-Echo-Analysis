@@ -1,0 +1,45 @@
+ Data files and the Number of Configurations per File:        25000       25000
+ freq-1.dat                                               25000
+ freq-2.dat                                               25000
+ Number of frequencies per line:           2
+ Number of Points to evaluate:        2000
+ Timestep(fs):   10.000000000000000     
+ First Excited State Relaxation Rate:   5.8105752469494478E-004
+ Second Excited State Relaxation Rate:   1.1621150493898896E-003
+ Waiting Time:   0.0000000000000000     
+ Band width for smoothing:   2.5000000000000000     
+ Transition Dipoles:  0.22676061600000000       0.27681187190000001     
+ Minimum frequency in Fourier Transform:   1900.0000000000000     
+ Maximum Frequency in Fourier Transform:   2100.0000000000000     
+  OpenMP is using   4 threads
+ Average Frequency:
+   1998.7286936882460        1981.4542051506216     
+   1999.2110495195016        1981.9515459908430     
+
+Time(min,sec):         0.0007         0.0413
+
+ Minimum Frequency Integer:        1139 Real:   1899.6473459976228     
+ Maximum Frequency Integer:        1260 Real:   2101.4536048788450     
+
+Time(min,sec):         0.0000         0.0000
+
+ Dephasing function complete
+
+Time(min,sec):      2722.2306    163333.8386
+
+ Response function Complete
+
+ Time(min,sec):   9.3849999999899101E-003  0.56309999999939464     
+
+ Fourier Transform Complete
+
+ Time(min,sec):   41.903913416666427        2514.2348049999855     
+
+ Smoothing Complete
+
+ Time(min,sec):   1.9331616666750050E-002   1.1598970000050031     
+
+ Normalization Complete
+ Max signal:   92.827619497519407     
+ Output written to:2dir.prm.lsp                                      
+ NORMAL TERMINATION

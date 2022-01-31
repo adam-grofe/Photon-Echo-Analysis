@@ -1,0 +1,16 @@
+2                !NUMBER OF FREQ PER LINE
+2000             !NUMBER OF POINTS TO EVALUATE EACH TIME COORDINATE(NPTS*dt=Total Time per coord. FT)
+10.0             !TIMESTEP(fs)
+1721             !FIRST EXCITED STATE LIFETIME (Make this large if you don't have this)
+860.5            !SECOND EXCITED STATE LIFETIME (approx. 1/2 the first excited state)
+  0.0            !TW(fs) POPULATION EVOLUTION TIME
+2.50             !BANDWIDTH FOR KERNEL SMOOTHING
+0.2267606160     !TS DIPOLE 1-2
+0.2768118719     !TS DIPOLE 2-3
+1900             !MINIMUM FREQUENCY TO EVALUATE
+2100             !MAXIMUM FREQUENCY TO EVALUATE
+2                !SKIP
+2                !Number of Frequency data files
+freq-1.dat 25000 !First name of the frequency data file in the current directory
+freq-2.dat 25000 ! followed by the number of lines in the file. i.e. the number of
+                 ! frequencies computed in the trajectory.
